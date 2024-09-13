@@ -1,0 +1,7 @@
+@import url('https://cdn.jsdelivr.net/gh/Lukatiel/ChatboxFont/blob/main/font.css');
+
+h1{
+    font-family: 'Optimus Princeps', monospace;
+    font-weight: normal;
+    font-style: normal;
+}
